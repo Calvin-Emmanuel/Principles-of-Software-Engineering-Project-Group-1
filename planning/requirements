@@ -1,0 +1,6 @@
+Prototype requirements:
+- Users are able to track their income and expenses
+- Expenses are categorized into Services, Shops, Entertainment, and Food & Drinks
+- Users are able to create and delete their own expenses categories
+- Have a graph that tells the user how their money was spent based on categories
+- Have a table that tells the user how much money they spend on certain categories on average (this average can be taken from the last 7 days, the last 30 days, and the last year)
