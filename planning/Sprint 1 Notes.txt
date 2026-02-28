@@ -1,0 +1,20 @@
+Sprint 1 starts from Friday, 20th of February 2026 until 27th February 2026
+
+The tasks that will need to be done are as follows:
+
+Must Have:
+- Setup GitHub repo
+- Setup Trello board
+- Create initial user stories
+
+Should Have:
+- Create Use Case Diagram
+- Create Class Diagram
+- Create Object Diagram
+
+Could Have:
+- Create Sequence Diagram
+- Create rough mockup of product
+
+Won't Have:
+- Start prototyping

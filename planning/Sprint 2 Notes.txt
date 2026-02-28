@@ -1,0 +1,20 @@
+Sprint 2 starts from Saturday, 28th of February 2026 to Friday, 6th of March 2025
+
+The tasks that will need to be done are as follows:
+
+Must Have:
+- Create Class and Object Diagram
+- Create Sequence Diagram
+
+Should Have:
+- Begin prototyping product MVP in Figma
+
+Could Have:
+- Tidy up GitHub repo
+- Prototyping of category CRUD
+
+
+Won't Have
+- Prototyping of average tables and graphs
+
+
