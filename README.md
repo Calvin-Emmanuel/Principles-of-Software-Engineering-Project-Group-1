@@ -8,7 +8,11 @@ The finished product can serve as a tool that can be used to track income and ex
 
 Team Members:
 Calvin Emmanuel Chandra Wijaya (0384435)  : Scrum Leader
+
 Dylan Sean Chiarief (0387391)             : Development Team (Designer)
+
 Geraldo Rafael Effendie (0384610)         : Development Team (Prototype Engineer)
+
 Gregorius Fernando Notosetiawan (0384554) : Development Team (Designer)
+
 Hizkia Abimael Wijaya (0384719)           : Development Team (Prototype Engineer)
